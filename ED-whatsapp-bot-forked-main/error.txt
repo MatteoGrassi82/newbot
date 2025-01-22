@@ -1,0 +1,12 @@
+Created audio_files directory
+Error in Converstion: Error: ffmpeg exited with code 1: https://api.twilio.com/2010-04-01/Accounts/ACa526353944b9dc9a2a55441290d6dc72/Messages/MM538779ea6ef5c477e52f832ee8af0033/Media/MEb574e1fa116e4b627c98125c6af3ae63: Server returned 401 Unauthorized (authorization failed)
+
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Documents\Baseline-EC2-working\node_modules\fluent-ffmpeg\lib\processor.js:182:22)
+    at ChildProcess.emit (node:events:517:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+Error in converting or transcribing the audio: Error: ffmpeg exited with code 1: https://api.twilio.com/2010-04-01/Accounts/ACa526353944b9dc9a2a55441290d6dc72/Messages/MM538779ea6ef5c477e52f832ee8af0033/Media/MEb574e1fa116e4b627c98125c6af3ae63: Server returned 401 Unauthorized (authorization failed)
+
+    at ChildProcess.<anonymous> (C:\Users\Administrator\Documents\Baseline-EC2-working\node_modules\fluent-ffmpeg\lib\processor.js:182:22)
+    at ChildProcess.emit (node:events:517:28)
+    at ChildProcess._handle.onexit (node:internal/child_process:292:12)
+Failed to process client message
